@@ -102,6 +102,17 @@ The API uses JSON Web Tokens (JWT) for authentication and bcrypt for password en
 - **404 Not Found:** Resource not found.
 - **500 Internal Server Error:** Server-side issues.
 
+### Usage
+
+- **Install dependencies:**
+  ```bash
+  npm i
+  ```
+- **Start server:**
+  ```bash
+  npm run server
+  ```
+
 ### Testing
 
 - **Using Jest:**
