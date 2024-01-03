@@ -1,3 +1,4 @@
+5
 ## SimpleNote API Documentation
 
 ### Overview
@@ -119,3 +120,7 @@ The API uses JSON Web Tokens (JWT) for authentication and bcrypt for password en
   ```bash
   npm test
   ```
+
+### Deployment
+
+- I have deployed this API on [render](https://simpleapi-onqz.onrender.com/)
